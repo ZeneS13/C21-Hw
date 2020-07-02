@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Solar game
+https://zenes13.github.io/C21-Hw/
